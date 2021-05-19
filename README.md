@@ -1,1 +1,4 @@
-# test-store-api-
+# test-store-api
+
+## To Run
+- `npm start`
